@@ -52,7 +52,6 @@ float mc_pi(int n ){
   }
   float pi = 4*(float)incircle/n;
    return pi;   
-  
   }
 
 
